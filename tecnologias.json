@@ -1,0 +1,15 @@
+{
+	"NodeJS" : "Javascript del lado del Servidor",
+	"Jade" : "Motor de plantillas Html rapido y ejecuta Javascript Lado Servidor",
+	"MongoDB": "Gestor de base de datos no relacional BSON",
+	"AngularJS" "Framework FrontEnd MVVM two way binding",
+	"Express" : "El framework web para #nodejs",
+	"Mongoose" : "Libreria permite conectar mongdb con nodejs",
+	"body-parser" : "Middleware body peticones ejemplo json",
+	"multer" : "Multer añade body y files object para request",
+	"cloudinary" : "Libreria q permite trabajar con cloud starge para imagenes",
+	"bootstrap" : "Framework twitter para adaptar css y javascript a dispositivos",
+	"flatDesign" : "Evitar el uso de imagens y mejor vectores",
+	"method-override" : "Dependencia para sobreescribir metodos http"
+
+}
